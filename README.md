@@ -78,19 +78,19 @@ Displays project and developer information.
 
 ## Home Dashboard
 
-![Home](screenshots/Home.png)
+![Home](ScreenShots/Home.png)
 
 ## Product Search
 
-![Search Product](screenshots/SearchProduct.png)
+![Search Product](ScreenShots/SearchProduct.png)
 
 ## Category Management
 
-![Category](screenshots/Category.png)
+![Category](ScreenShots/Category.png)
 
 ## Reports Module
 
-![Reports](screenshots/Report.png)
+![Reports](ScreenShots/Report.png)
 
 ---
 
