@@ -106,7 +106,7 @@ Displays project and developer information.
 
 ```txt
 Admin ID : admin
-Password : adm123
+Password : admin123
 ```
 
 ---
