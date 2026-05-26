@@ -74,7 +74,7 @@ Displays project and developer information.
 
 ## Login Page
 
-![Login](screenshots/Login.png)
+![Login](ScreenShots/Login.png)
 
 ## Home Dashboard
 
