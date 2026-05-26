@@ -13,7 +13,7 @@ public class DbConnect {
     public DbConnect(){
         try{
             Class.forName("com.mysql.cj.jdbc.Driver"); //Optional
-            c=DriverManager.getConnection("jdbc:mysql://localhost:3306/electro","root","Incapp@12");
+            c=DriverManager.getConnection("jdbc:mysql://localhost:3306/electro","root","");
             st=c.createStatement();
         }catch(Exception ex){
             JOptionPane.showMessageDialog(null, ex);
